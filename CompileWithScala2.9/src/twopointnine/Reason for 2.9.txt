@@ -1,0 +1,4 @@
+Because playing around with scala.actors package
+
+It's deprecated now
+

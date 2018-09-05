@@ -1,0 +1,4 @@
+Scripts are in a separate directory because sbt tries to compile .scala files
+
+Possible solution: rename to .sc
+  except, IDEA unfortunately interprets these as worksheets

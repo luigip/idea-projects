@@ -1,0 +1,24 @@
+package odds;
+
+import scala.collection.immutable.List;
+
+public class InterOpJ {
+
+    public static void main(String[] args) {
+        List<Integer> list = InterOpS.list();
+      
+//        Integer res = (Integer) list.par().reduce(InterOpS.f());
+        Object res = list.par();
+        
+        System.out.println(res);
+        
+//        int x = InterOpS.x();
+//        int y = InterOpS.y();
+//
+//        System.out.println(x);
+//        System.out.println(y);
+        
+    }
+    
+}
+

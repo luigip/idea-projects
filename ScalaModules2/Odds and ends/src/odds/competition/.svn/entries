@@ -1,0 +1,42 @@
+10
+
+dir
+0
+file://rhys-desktop/SharedDocs/REPOSITORIES/IJScalaMods/Odds%20and%20ends/src/odds/competition
+file://rhys-desktop/SharedDocs/REPOSITORIES/IJScalaMods
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8a486615-b210-6245-a02c-45fed42a5a52
+
+Data.scala
+file
+
+
+
+add
+
+WinnerPicker.scala
+file
+
+
+
+add
+

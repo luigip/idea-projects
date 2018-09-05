@@ -1,0 +1,47 @@
+[info] Set current project to default-f0cdb9 (in build file:/C:/Users/Rhys/Documents/Java/IdeaProjects/ScalaModules2/)
+[error] Total time: 1 s, completed 02-Dec-2011 22:56:28
+[error] Not a valid key: mainClass (similar: main-class, mappings, select-main-class)
+[error] mainClass = odds.scratchd
+[error]          ^
+[success] Total time: 0 s, completed 02-Dec-2011 22:59:07
+[success] Total time: 0 s, completed 02-Dec-2011 22:59:16
+[error] Expected end of input.
+[error] main-class odds.scratchd
+[error]           ^
+[error] Expected end of input.
+[error] main-class = odds.scratchd
+[error]           ^
+[error] Expected end of input.
+[error] main-class := odds.scratchd
+[error]           ^
+[error] Not a valid key: selectMainClass (similar: select-main-class)
+[error] selectMainClass odds.scratchd
+[error]                ^
+[error] Expected end of input.
+[error] select-main-class odds.scratchd
+[error]                  ^
+[success] Total time: 0 s, completed 02-Dec-2011 23:06:32
+[error] Expected end of input.
+[error] select-main-class := odds.scratchd
+[error]                  ^
+[error] Expected end of input.
+[error] select-main-class = odds.scratchd
+[error]                  ^
+[error] Not a valid key: runMain (similar: run-main, run, runner)
+[error] runMain odds.scratchd
+[error]        ^
+[error] Total time: 0 s, completed 02-Dec-2011 23:08:33
+[success] Total time: 0 s, completed 02-Dec-2011 23:08:53
+[error] Total time: 0 s, completed 02-Dec-2011 23:09:46
+[success] Total time: 0 s, completed 02-Dec-2011 23:09:55
+[error] Total time: 0 s, completed 02-Dec-2011 23:09:59
+[error] Total time: 0 s, completed 02-Dec-2011 23:10:57
+[error] Not a valid command: project-info (similar: project, projects)
+[error] Not a valid project ID: project-info
+[error] Not a valid configuration: project-info
+[error] Not a valid key: project-info (similar: project-id, project-resolver, project-descriptors)
+[error] project-info
+[error]             ^
+[info] default:default-f0cdb9:0.1
+[success] Total time: 0 s, completed 02-Dec-2011 23:12:54
+[info] default-f0cdb9

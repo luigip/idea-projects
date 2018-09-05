@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/99 probs/99 problems.iml" filepath="$PROJECT_DIR$/99 probs/99 problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IJEuler/IJEuler.iml" filepath="$PROJECT_DIR$/IJEuler/IJEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Odds and ends/Odds and ends.iml" filepath="$PROJECT_DIR$/Odds and ends/Odds and ends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScalaModules.iml" filepath="$PROJECT_DIR$/ScalaModules.iml" />
+    </modules>
+  </component>
+</project>
+
